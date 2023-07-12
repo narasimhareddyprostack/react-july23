@@ -1,0 +1,11 @@
+https://react.dev/
+
+
+https://reactnative.dev/
+
+https://create-react-app.dev/
+
+https://www.npmjs.com/
+https://mvnrepository.com/
+https://pypi.org/
+
