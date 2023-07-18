@@ -9,3 +9,16 @@ https://www.npmjs.com/
 https://mvnrepository.com/
 https://pypi.org/
 
+State : compoent own data.
+
+how to update state?
+using setState()
+
+how to update state in class component?
+state = {}
+
+setState({})
+
+how to update state in functional component?
+
+react hooks - useState hooks 
