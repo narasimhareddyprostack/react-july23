@@ -22,3 +22,15 @@ setState({})
 how to update state in functional component?
 
 react hooks - useState hooks 
+==================
+
+API USL:https://dummyjson.com/users
+method :GET
+Req Fields: Not 
+Access Type: public
+
+
+dummyjson.com/users
+
+https://jsonplaceholder.typicode.com/
+
