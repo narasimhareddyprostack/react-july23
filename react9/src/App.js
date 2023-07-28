@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
-import Login from './FormHandling/Login'
+import Registration from './FormHandling/Registration'
+import Message from './Hooks/Message'
 class App extends Component {
   render() {
     return (
       <div>
         <h2>App Component</h2>
-        <Login/>
+        <Message/>
       </div>
     )
   }
