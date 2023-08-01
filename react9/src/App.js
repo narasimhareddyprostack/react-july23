@@ -1,14 +1,18 @@
 import React, { Component } from 'react'
-import Registration from './FormHandling/Registration'
-import Message from './Hooks/Message'
-import Product from './Hooks2/Product'
+import Message from './Message/Message'
+import {Provider} from 'react-redux'
+import {store} from './redux/store'
 class App extends Component {
   render() {
     return (
+      <Provider store={store}>
       <div>
-        <h2>App Component</h2>
-        <Product/>
+        <h3>App Component</h3>
+        <hr/>
+        <Message/>
       </div>
+      </Provider>
+
     )
   }
 }
