@@ -19,7 +19,7 @@ const Message = () => {
     <div>
         <h2>Message Component</h2>
         <pre>{JSON.stringify(msg)}</pre>
-
+        <h3>Message:{msg.msg}</h3>
         <button onClick={gmHandler}>GM</button>
         <button onClick={gnHandler}>GN</button>
     </div>
